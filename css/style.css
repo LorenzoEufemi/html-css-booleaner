@@ -18,3 +18,22 @@ header {
 }
 .didascalia {
     background-color: yellow;
+}
+thead {
+    background-color: deepskyblue;
+    color: white;
+}
+.tr1 {
+    background-color: powderblue;
+}
+.tr3 {
+    background-color: powderblue;
+}
+.didascalia2 {
+    background-color: yellow;
+}
+.foot {
+    color: gray;
+}
+
+
