@@ -1,8 +1,20 @@
 header {
     background-image: url(../img/pattern.png);
-background-size: contain;
-background-repeat: repeat;
-  background-color: dodgerblue;
-height: 100px;
+    background-size: contain;
+    background-repeat: repeat;
+    background-color: dodgerblue;
+    height: 100px;
+}
+
 .booleaner {
     color: aqua;
+}
+
+.data {
+    font-size: smaller;
+}
+.descrizione {
+    font-size: smaller;
+}
+.didascalia {
+    background-color: yellow;
