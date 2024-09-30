@@ -4,6 +4,8 @@ header {
     background-repeat: repeat;
     background-color: dodgerblue;
     height: 100px;
+
+
 }
 
 .booleaner {
@@ -13,27 +15,52 @@ header {
 .data {
     font-size: smaller;
 }
+
 .descrizione {
     font-size: smaller;
 }
+
 .didascalia {
     background-color: yellow;
 }
+
 thead {
     background-color: deepskyblue;
     color: white;
 }
+
 .tr1 {
     background-color: powderblue;
 }
+
 .tr3 {
     background-color: powderblue;
 }
+
 .didascalia2 {
     background-color: yellow;
 }
+
 .foot {
     color: gray;
 }
 
+.foot2 {
+    background-image: url(../img/monitor.jpg);
+    width: 200px;
+    ;
+    height: 200px;
+    color: white;
+}
 
+.foot3 {
+    color: white;
+    background-image: url(../img/graph.jpg);
+    width: 200px;
+    height: 200px;
+}
+
+.nomeclasse {
+    width: 100px;
+    height: 100px;
+}
